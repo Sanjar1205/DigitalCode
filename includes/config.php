@@ -40,7 +40,7 @@ define('DB_CHARSET', 'utf8mb4');
 // SAYT SOZLAMALARI (Yangi server manzillari)
 // ═══════════════════════════════════════════════════════════
 define('SITE_NAME', 'CodeAcademy');
-define('SITE_URL', 'http://codeacdemy.atwebpages.com'); // Yangi domeningiz
+define('SITE_URL', 'https://digitalcode-production.up.railway.app'); // Yangi domeningiz
 define('UPLOAD_DIR', __DIR__ . '/../assets/uploads/');
 define('UPLOAD_URL', SITE_URL . '/assets/uploads/');
 
